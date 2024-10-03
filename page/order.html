@@ -34,7 +34,7 @@
         color: red;
     }
 
-    nav {
+   /* nav {
         background-color: #007bff;
         padding: 10px;
     }
@@ -43,7 +43,7 @@
         color: white;
         margin-right: 15px;
         text-decoration: none;
-    }
+    }*/
 
     .float-end {
         float: right;
@@ -51,12 +51,25 @@
 </style>
 <body>
 <div id="placeOrder" class="container hidden">
+<!--
     <nav class="nav-tabs">
-        <a href="#" onclick="showSection('dashboard')">Home</a>
-        <a href="#">Customer</a>
-        <a href="#">Item</a>
-        <a href="#">Order</a>
-        <span class="float-end">Order ID: <strong>2024-10-02</strong></span>
+        <a href="../index.html">Home</a>
+        <a href="main_customer.html">Customer</a>
+        <a href="main_item.html">Item</a>
+        <a href="order.html">Order</a>
+    </nav>
+-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="main_customer.html">Customer</a></li>
+                    <li class="nav-item"><a class="nav-link" href="main_item.html">Item</a></li>
+                    <li class="nav-item"><a class="nav-link" href="order.html">Order</a></li>
+                </ul>
+            </div>
+        </div>
     </nav>
 
     <div class="row order-container">
@@ -80,7 +93,9 @@
                     <label for="address" class="form-label">Address</label>
                     <input type="text" class="form-control" id="address" placeholder="Enter Address">
                 </div>
-                <button type="submit" class="btn btn-success">+ Add</button>
+                <a href="customer.html">
+                    <button type="button" class="btn btn-success">+ Add</button>
+                </a>
             </form>
         </div>
 
@@ -108,7 +123,9 @@
                     <label for="quantity" class="form-label">Quantity</label>
                     <input type="number" class="form-control" id="quantity" placeholder="Enter Quantity">
                 </div>
-                <button type="submit" class="btn btn-success">+ Add</button>
+                <a href="Item.html">
+                    <button type="button" class="btn btn-success">+ Add</button>
+                </a>
             </form>
         </div>
 

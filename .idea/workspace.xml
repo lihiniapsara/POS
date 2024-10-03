@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35240ee8-a3e2-4a92-9988-0bd0fcc112ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav-bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/Item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/main_customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/main_item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/order.html" afterDir="false" />
+    <list default="true" id="35240ee8-a3e2-4a92-9988-0bd0fcc112ae" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/main_customer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +39,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/POS_System",
     "list.type.of.created.stylesheet": "CSS",
@@ -75,11 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727854323311</updated>
-      <workItem from="1727854324495" duration="12432000" />
+      <workItem from="1727854324495" duration="22816000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1727884805830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727884805830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
