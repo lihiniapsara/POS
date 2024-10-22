@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35240ee8-a3e2-4a92-9988-0bd0fcc112ae" name="Changes" comment="4rd">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="35240ee8-a3e2-4a92-9988-0bd0fcc112ae" name="Changes" comment="5rd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/main_customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/main_item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/tese.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/POS_System&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/lihini&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -176,6 +175,19 @@
       <workItem from="1727854324495" duration="55664000" />
       <workItem from="1728061803763" duration="913000" />
       <workItem from="1728064560676" duration="39000" />
+      <workItem from="1728064617181" duration="3830000" />
+      <workItem from="1728126431344" duration="841000" />
+      <workItem from="1728214952643" duration="1190000" />
+      <workItem from="1728309929202" duration="1197000" />
+      <workItem from="1728493420494" duration="5000" />
+      <workItem from="1728493448372" duration="33000" />
+      <workItem from="1728717788833" duration="4000" />
+      <workItem from="1728728471592" duration="3122000" />
+      <workItem from="1729088546542" duration="17000" />
+      <workItem from="1729232268044" duration="607000" />
+      <workItem from="1729247124363" duration="69000" />
+      <workItem from="1729261994165" duration="3063000" />
+      <workItem from="1729348854381" duration="1194000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -209,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728031844803</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5rd">
+      <option name="closed" value="true" />
+      <created>1728064651842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728064651842</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +240,7 @@
     <MESSAGE value="second" />
     <MESSAGE value="3rd" />
     <MESSAGE value="4rd" />
-    <option name="LAST_COMMIT_MESSAGE" value="4rd" />
+    <MESSAGE value="5rd" />
+    <option name="LAST_COMMIT_MESSAGE" value="5rd" />
   </component>
 </project>
